@@ -1,0 +1,35 @@
+body {
+	font-color: #FFFFFF;
+	font-weight: bold;
+	background-image: url("http://wpbeaches.com/wp-content/uploads/2016/03/customizer-image-background.jpg");
+}
+
+.gamename {
+	font-family: 'Orbitron', sans-serif;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.toptext {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.tracker {
+	border: 2px solid #FFFFFF;
+	text-align: center;
+	height: 100px;
+	padding-top: 10px;
+	color: #FFFFFF;
+}
+
+#word-blank {
+	color: #FFFFFF;
+	font-size: 1.5em;
+	text-align: center;
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
